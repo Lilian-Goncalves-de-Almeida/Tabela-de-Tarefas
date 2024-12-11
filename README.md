@@ -16,10 +16,10 @@ Uma aplicação simples e elegante para gerenciar tarefas. Esta tabela permite a
 
 ## Capturas de Tela
 
-![Screenshot from 2024-12-11 11-11-41](https://github.com/user-attachments/assets/a5ef4239-140f-4cfc-9181-3cfcb586ef49)
-![Screenshot from 2024-12-11 11-12-46](https://github.com/user-attachments/assets/2c506072-49b3-42f7-bba8-9e521274689e)
-![Screenshot from 2024-12-11 11-12-42](https://github.com/user-attachments/assets/9c9acc49-3ce5-4485-9246-c89ef3840b21)
-![Screenshot from 2024-12-11 11-12-56](https://github.com/user-attachments/assets/3645afa0-620a-4fa5-85a8-19136e3ee896)
+![Screenshot from 2024-12-11 11-33-53](https://github.com/user-attachments/assets/2fc8be93-378b-47ee-ab7c-b3abef185d5c)
+![Screenshot from 2024-12-11 11-33-49](https://github.com/user-attachments/assets/08e70263-b9df-4a04-8a22-865729df57dc)
+![Screenshot from 2024-12-11 11-33-33](https://github.com/user-attachments/assets/dddc2925-1f03-4705-88c1-2db8b81a621a)
+
 
 ## Como Usar
 
