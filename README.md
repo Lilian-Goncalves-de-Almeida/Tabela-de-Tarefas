@@ -25,12 +25,12 @@ Uma aplicação simples e elegante para gerenciar tarefas. Esta tabela permite a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Lilian-Goncalves-de-Almeida/Tabela-de-Tarefas.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd Tabela-de-Tarefas
    ```
 
 3. Abra o arquivo `index.html` em um navegador:
