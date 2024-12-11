@@ -62,5 +62,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 
 ---
 
-**Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario).**
+**Desenvolvido com ❤️ por [Lilian Gonçalves de Almeida](https://github.com/Lilian-Goncalves-de-Almeida).**
 
